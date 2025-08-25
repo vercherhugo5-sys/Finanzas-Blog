@@ -87,4 +87,6 @@ index.html
 <p>Nota: los enlaces de Amazon contienen tu ID de afiliado, lo que te permitirá ganar comisión si alguien compra a través de ellos.</p>
 </footer>
 </body>
+
 </html>
+google.com, pub-3920656493872446, DIRECT, f08c47fec0942fa0
